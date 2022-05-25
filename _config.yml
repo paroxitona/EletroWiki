@@ -1,0 +1,5 @@
+theme: git-wiki
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
